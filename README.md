@@ -26,7 +26,7 @@ O YOLO é amplamente utilizado em diversas aplicações, como vigilância, dire�
 
 Primeiro de tudo você vai precisar do python instalado (no meu caso estou utilizando a versão 3.12.7). Além disso também precisará do git e do vscode.
 
-![[assets/SNAG-0002.png]]
+![[./assets/SNAG-0002.png]]
 
 Instalar ou atualizar a biblioteca ultralytics do YOLO:
 

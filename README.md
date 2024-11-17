@@ -79,7 +79,7 @@ Agora dizemos quais classes vamos contar de acordo com as opções do dataset. D
 
 ![](/../main/assets/SNAG-0009.png?raw=true "Optional Title")
 
-> [!NOTE] Nota
+> Nota:
 > Para saber o índice das classes do YOLO, veja na documentação em [COCO - Ultralytics YOLO Docs](https://docs.ultralytics.com/datasets/detect/coco/#dataset-yaml)
 > 
 > ![](/../main/assets/SNAG-0007.png?raw=true "Optional Title")
@@ -98,7 +98,7 @@ Aqui definimos onde sera gerada a saída com o desenho nas imagens e o tracker d
 
 ![](/../main/assets/SNAG-0011.png?raw=true "Optional Title")
 
-> [!NOTE] Nota
+> Nota:
 > É possível também apenas visualizar sem fazer o output em arquivo.
 
 #### Passando Argumentos para o Contador de Objetos
@@ -112,12 +112,12 @@ Atente-se que algumas configurações exigirão mais hardware
 ![](/../main/assets/SNAG-0014.png?raw=true "Optional Title")
 
 
-> [!NOTE] Nota 1
+> Nota 1:
 > Para visualizar a lista completa de parâmetros, acesse [Object Counting - Ultralytics YOLO Docs](https://docs.ultralytics.com/guides/object-counting/#real-world-applications)
 > 
 ![](/../main/assets/SNAG-0013.png?raw=true "Optional Title")
 
-> [!NOTE] Nota 2
+> Nota 2
 > Quanto ao modelo, existem varios disponíveis, e para entender seu custo de processamento, acesse [COCO - Ultralytics YOLO Docs](https://docs.ultralytics.com/datasets/detect/coco/)
 > 
 ![](/../main/assets/SNAG-0003.png?raw=true "Optional Title")
@@ -166,7 +166,7 @@ E fiz alguns testes usando o modelo yolo11n.pt (mais leve):
 ![](/../main/assets/SNAG-0008.png?raw=true "Optional Title")
 
 
-> [!NOTE] Nota
+> Nota:
 > Apesar do nivel de acertos alto, o nível de erros tambem foi alto. Por exemplo, ele não reconheceu garfo e faca e ainda indicou que meu tabuleio de xadrez como uma pizza e um pote de planta como copo.
 > 
 

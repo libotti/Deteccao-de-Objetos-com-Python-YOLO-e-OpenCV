@@ -174,4 +174,4 @@ Repetindo o mesmo teste com o modelo yolo11x.pt:
 
 ![](/../main/assets/SNAG-0023.png?raw=true "Optional Title")
 
-Por hora é isso. No próximo desejo demonstrar como fazer para retreirar o yolo com uma classe nova.
+Por hora é isso. No próximo desejo demonstrar como fazer para retreinar o yolo com uma classe nova.
